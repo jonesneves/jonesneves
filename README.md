@@ -2,6 +2,7 @@
 
 Sou desenvolvedor focado em **construção de produtos digitais**, automação e sistemas orientados a negócio.  
 Trabalho com arquitetura, código e infraestrutura pensando em **escala, clareza e uso real**.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
