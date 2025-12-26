@@ -2,7 +2,7 @@
 
 Sou desenvolvedor focado em **construção de produtos digitais**, automação e sistemas orientados a negócio.  
 Trabalho com arquitetura, código e infraestrutura pensando em **escala, clareza e uso real**.
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ---
 
@@ -87,3 +87,15 @@ Trabalho com arquitetura, código e infraestrutura pensando em **escala, clareza
 ---
 
 > “Produto bom é aquele que continua funcionando quando o projeto cresce.”
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+
+[![Instagram](https://img.shields.io/badge/@jonesnevesclimaviral-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jonesnevesclimaviral)
+
